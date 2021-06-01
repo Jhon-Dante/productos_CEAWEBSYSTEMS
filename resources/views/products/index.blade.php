@@ -197,6 +197,7 @@
                 }
             });
         }
+        
         function AggProduct() {
             $('#showAggProduct').show();
             $('#showEditProduct').hide();
